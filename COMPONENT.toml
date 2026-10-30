@@ -1,0 +1,7 @@
+name = "SigmaOS-tools"
+schema_version = 1
+responsibility = "installer, ISO builder, updater, rollback, packaging, and CI tooling"
+integration_repository = "https://github.com/AaryanSinghChauhan09/SigmaOS"
+canonical_branch = "main"
+status = "scaffold"
+license = "GPL-3.0-or-later"

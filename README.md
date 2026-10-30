@@ -1,8 +1,10 @@
 # SigmaOS tools
 
-System tools and utilities for the SigmaOS project, including desktop and
-system workflows. The crate manifest and `src/tools/` tree define the current
-component API and implementation.
+System tools and utilities for the SigmaOS project. The crate manifest and
+`src/tools/` tree define the current component API and implementation. The
+component contract also assigns this repository responsibility for installer,
+ISO generation, updates, rollback, packaging, and reproducible CI tooling; those
+areas remain subject to integration evidence and are not implied complete here.
 
 ## Development
 
